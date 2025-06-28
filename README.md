@@ -1,5 +1,5 @@
 # SCT_DS_1
-📊 Data Visualization Task – Future Interns | Skillcraft Technology
+📊 Data Visualization Task – Skillcraft Technology
 This repository contains my submission for Task 01 at Skillcraft Technology. The goal of this task was to create meaningful visualizations based on the provided datasets using Python.
 
 🔍 Task Objective:
